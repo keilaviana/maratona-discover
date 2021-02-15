@@ -134,4 +134,8 @@ td.expense{
 
 footer{
     text-align: center;
+    padding: 4rem 0 2rem;
+    color: var(--color-dark);
+
+    opacity: 0.6;
 }
